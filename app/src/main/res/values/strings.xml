@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VibroMessage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="default_notification_channel_id">VibroChannel</string>
+    <string name="default_notification_channel_name">Vibration Alerts</string>
+    <string name="msg_token_fmt">Token info %1s</string>
+    <string name="public_sha256">2ebf7d5f22bfee49b49964f23713f78d568b6721569df8ed832667cad9bfc0b9</string>
+</resources>
